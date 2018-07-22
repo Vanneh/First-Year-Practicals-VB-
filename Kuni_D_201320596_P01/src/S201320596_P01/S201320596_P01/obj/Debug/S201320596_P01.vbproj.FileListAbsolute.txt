@@ -1,0 +1,20 @@
+c:\users\devandrin kuni\documents\visual studio 2012\Projects\S201320596_P01\S201320596_P01\bin\Debug\S201320596_P01.exe.config
+c:\users\devandrin kuni\documents\visual studio 2012\Projects\S201320596_P01\S201320596_P01\bin\Debug\S201320596_P01.exe
+c:\users\devandrin kuni\documents\visual studio 2012\Projects\S201320596_P01\S201320596_P01\bin\Debug\S201320596_P01.pdb
+c:\users\devandrin kuni\documents\visual studio 2012\Projects\S201320596_P01\S201320596_P01\bin\Debug\S201320596_P01.xml
+c:\users\devandrin kuni\documents\visual studio 2012\Projects\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.Resources.resources
+c:\users\devandrin kuni\documents\visual studio 2012\Projects\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.vbproj.GenerateResource.Cache
+c:\users\devandrin kuni\documents\visual studio 2012\Projects\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.exe
+c:\users\devandrin kuni\documents\visual studio 2012\Projects\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.xml
+c:\users\devandrin kuni\documents\visual studio 2012\Projects\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.pdb
+C:\Users\Devandrin Kuni\documents\visual studio 2012\Projects\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.frmrip.resources
+C:\Users\User\Dropbox\Uj stuff\First Year\IFM1B10\Practicals\Kuni_D_201320596_P01\src\S201320596_P01\S201320596_P01\bin\Debug\S201320596_P01.exe.config
+C:\Users\User\Dropbox\Uj stuff\First Year\IFM1B10\Practicals\Kuni_D_201320596_P01\src\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.exe
+C:\Users\User\Dropbox\Uj stuff\First Year\IFM1B10\Practicals\Kuni_D_201320596_P01\src\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.xml
+C:\Users\User\Dropbox\Uj stuff\First Year\IFM1B10\Practicals\Kuni_D_201320596_P01\src\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.pdb
+C:\Users\User\Dropbox\Uj stuff\First Year\IFM1B10\Practicals\Kuni_D_201320596_P01\src\S201320596_P01\S201320596_P01\bin\Debug\S201320596_P01.exe
+C:\Users\User\Dropbox\Uj stuff\First Year\IFM1B10\Practicals\Kuni_D_201320596_P01\src\S201320596_P01\S201320596_P01\bin\Debug\S201320596_P01.pdb
+C:\Users\User\Dropbox\Uj stuff\First Year\IFM1B10\Practicals\Kuni_D_201320596_P01\src\S201320596_P01\S201320596_P01\bin\Debug\S201320596_P01.xml
+C:\Users\User\Dropbox\Uj stuff\First Year\IFM1B10\Practicals\Kuni_D_201320596_P01\src\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.frmrip.resources
+C:\Users\User\Dropbox\Uj stuff\First Year\IFM1B10\Practicals\Kuni_D_201320596_P01\src\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.Resources.resources
+C:\Users\User\Dropbox\Uj stuff\First Year\IFM1B10\Practicals\Kuni_D_201320596_P01\src\S201320596_P01\S201320596_P01\obj\Debug\S201320596_P01.vbproj.GenerateResource.Cache
